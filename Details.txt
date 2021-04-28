@@ -1,0 +1,22 @@
+CSS Script - css\front.css
+Background Image - IMG\back1.jpg
+Database File to be imported - university\university.sql
+
+File to be imported using PHPmyadmin - university\university.sql 
+
+Tables in university : college,eexam,maths
+
+
+
+Database Connection - db.php
+Front Page - index.php
+Search by name - name.php
+Search by state - state.php
+Search by university type - univtype.php
+Search on the basis of percentage - course.php
+Search for entrance exams - eexam.php
+Search for Upcoming entrance exams - ueexam.php
+Search for all girls colleges - ag.php
+About the project - about.php
+
+
